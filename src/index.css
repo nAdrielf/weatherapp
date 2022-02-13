@@ -25,7 +25,7 @@ h1 {
 }
 .app:before {
   content: '';
-  background: url('./assets/background.jpg');
+  background: url('https://images.unsplash.com/photo-1531162328795-808523268d2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fG5hdHVyZXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
