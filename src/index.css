@@ -91,6 +91,6 @@ h1 {
 }
 @media (min-width: 1024px) {
   .app {
-    height: 110vh;
+    height: 120vh;
   }
 }
